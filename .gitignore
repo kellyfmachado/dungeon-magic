@@ -3,8 +3,14 @@
 # Unity WebGL Builds
 /WebGL Builds/
 connectwebgl.zip
+WebGL Builds.zip
 webgl_sharing
 /Builds/
+
+# Unity Linux Builds
+/Linux Builds_Data/
+DungeonMagic.x86_64
+UnityPlayer.so
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/unity,rider,visualstudiocode
