@@ -30,6 +30,19 @@ Os assets utilizados neste projeto podem ser facilmente integrados ao seu própr
 - Músicas por _Kevin MacLeod_: [incompetech.com](https://www.incompetech.com)
 - Efeitos sonoros com licença pública obtidos em [freesound.org](https://freesound.org)
 
+## Controladores
+
+Abaixo estão os controladores disponibilizados para o jogador:
+
+- **W / Seta para cima:** Mover para frente
+- **A / Seta para esquerda:** Mover para a esquerda
+- **S / Seta para baixo:** Mover para trás
+- **D / Seta para direita:** Mover para direita
+- **Espaço:** Pular
+- **Botão esquerdo do mouse:** Atacar
+- **Botão direito do mouse:** Defender
+- **E:** Interagir
+
 ## Screenshots
 
 <p align="middle">
